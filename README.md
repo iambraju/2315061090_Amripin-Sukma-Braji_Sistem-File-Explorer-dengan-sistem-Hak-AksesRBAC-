@@ -1,9 +1,5 @@
 # 📁 Sistem File Explorer dengan Hak Akses RBAC
 
-![PHP](https://img.shields.io/badge/PHP-Backend-blue)
-![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
-![RBAC](https://img.shields.io/badge/Security-RBAC-green)
-![Status](https://img.shields.io/badge/Status-Academic%20Project-success)
 
 ## 📖 Deskripsi
 
